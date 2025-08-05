@@ -36,6 +36,7 @@ So far, integration of this standard exists for the following software:
 * [PeerTube](https://joinpeertube.org)
 * [Pixelfed](https://pixelfed.org)
 * [Pleroma](https://pleroma.social)
+* [snac](https://codeberg.org/grunfink/snac2)
 * [Takahē](https://jointakahe.org/)
 * [WordPress](https://wordpress.org/plugins/nodeinfo/)
 
